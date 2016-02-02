@@ -1,0 +1,25 @@
+
+/* Color references
+Dark grey       : #333;
+ash             : #ccc;
+Light grey      : #eee;
+ornage          : #d35400; 
+Green           : #79b044;
+Salmon          : #dd5638;
+Bluegrey        : #3e4249;
+white           : #fff;
+Darkorange      : #ed7000;
+Lightdark       : #353535;
+dark green      : #adb195;
+dark coffee     : #75480a;
+
+
+brand-primary: darken(#428bca, 6.5%); // #337ab7
+
+
+brand-success: #5cb85c;
+
+brand-info:    #5bc0de;
+
+brand-warning: #f0ad4e;
+brand-danger:  #d9534f;
